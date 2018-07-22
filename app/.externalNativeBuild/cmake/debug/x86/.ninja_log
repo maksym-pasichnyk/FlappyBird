@@ -1,0 +1,20 @@
+# ninja log v5
+0	71	0	CMakeFiles/native-lib.dir/src/main/cpp/color.cpp.o	15909c58006efc9
+0	546	0	CMakeFiles/native-lib.dir/src/main/cpp/component.cpp.o	d5e92fb36a9904c6
+546	599	0	CMakeFiles/native-lib.dir/src/main/cpp/glcontext.cpp.o	e101296a5d1cd503
+0	655	0	CMakeFiles/native-lib.dir/src/main/cpp/camera.cpp.o	fe63b395a9a8415b
+71	776	0	CMakeFiles/native-lib.dir/src/main/cpp/game_object.cpp.o	c18096127f096a86
+0	996	0	CMakeFiles/native-lib.dir/src/main/cpp/font.cpp.o	ff06eb14bc743c6d
+0	1167	0	CMakeFiles/native-lib.dir/src/main/cpp/engine.cpp.o	9e307bc097f269c1
+776	1265	0	CMakeFiles/native-lib.dir/src/main/cpp/material.cpp.o	12a6ccd9470ed0a2
+1	1270	0	CMakeFiles/native-lib.dir/src/main/cpp/game_loop.cpp.o	a88088af360f5a1
+599	1295	0	CMakeFiles/native-lib.dir/src/main/cpp/input.cpp.o	702d119195d0d0c1
+996	1425	0	CMakeFiles/native-lib.dir/src/main/cpp/ninepath.cpp.o	a4b34f8121f932d4
+1295	1744	0	CMakeFiles/native-lib.dir/src/main/cpp/shader.cpp.o	9fb999a3521f6797
+1270	1866	0	CMakeFiles/native-lib.dir/src/main/cpp/screen.cpp.o	bb3d179dea9fee93
+1265	1870	0	CMakeFiles/native-lib.dir/src/main/cpp/scene.cpp.o	5fdb0392d65d8fe5
+1425	2061	0	CMakeFiles/native-lib.dir/src/main/cpp/sprite.cpp.o	f8cf7886758ee187
+655	2064	0	CMakeFiles/native-lib.dir/src/main/cpp/lodepng.cpp.o	d82de2f8082237ce
+1744	2093	0	CMakeFiles/native-lib.dir/src/main/cpp/texture.cpp.o	a5e5153010697224
+1167	2287	0	CMakeFiles/native-lib.dir/src/main/cpp/resources.cpp.o	ca0affca3626d7c5
+2287	2366	0	../../../../build/intermediates/cmake/debug/obj/x86/libnative-lib.so	3591154858adcdb9

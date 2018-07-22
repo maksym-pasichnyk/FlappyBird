@@ -1,0 +1,51 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/maxim/StudioProjects/FlappyBird/app/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /home/maxim/StudioProjects/FlappyBird/app/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /home/maxim/StudioProjects/FlappyBird/app/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /home/maxim/StudioProjects/FlappyBird/app/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /home/maxim/StudioProjects/FlappyBird/app/src/main/AndroidManifest.xml:1:1-20:12
+	package
+		ADDED from /home/maxim/StudioProjects/FlappyBird/app/src/main/AndroidManifest.xml:2:5-32
+	android:versionName
+		ADDED from /home/maxim/StudioProjects/FlappyBird/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /home/maxim/StudioProjects/FlappyBird/app/src/main/AndroidManifest.xml
+		INJECTED from /home/maxim/StudioProjects/FlappyBird/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/maxim/StudioProjects/FlappyBird/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /home/maxim/StudioProjects/FlappyBird/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /home/maxim/StudioProjects/FlappyBird/app/src/main/AndroidManifest.xml
+		INJECTED from /home/maxim/StudioProjects/FlappyBird/app/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from /home/maxim/StudioProjects/FlappyBird/app/src/main/AndroidManifest.xml:6:5-53
+	android:glEsVersion
+		ADDED from /home/maxim/StudioProjects/FlappyBird/app/src/main/AndroidManifest.xml:6:19-51
+uses-sdk
+ADDED from /home/maxim/StudioProjects/FlappyBird/app/src/main/AndroidManifest.xml:7:5-43
+	android:minSdkVersion
+		ADDED from /home/maxim/StudioProjects/FlappyBird/app/src/main/AndroidManifest.xml:7:15-41
+application
+ADDED from /home/maxim/StudioProjects/FlappyBird/app/src/main/AndroidManifest.xml:9:5-19:19
+	android:label
+		ADDED from /home/maxim/StudioProjects/FlappyBird/app/src/main/AndroidManifest.xml:9:18-41
+activity#com.maxim.pipyaki.MainActivity
+ADDED from /home/maxim/StudioProjects/FlappyBird/app/src/main/AndroidManifest.xml:10:9-18:20
+	android:screenOrientation
+		ADDED from /home/maxim/StudioProjects/FlappyBird/app/src/main/AndroidManifest.xml:11:13-56
+	android:configChanges
+		ADDED from /home/maxim/StudioProjects/FlappyBird/app/src/main/AndroidManifest.xml:13:13-83
+	android:theme
+		ADDED from /home/maxim/StudioProjects/FlappyBird/app/src/main/AndroidManifest.xml:12:13-71
+	android:name
+		ADDED from /home/maxim/StudioProjects/FlappyBird/app/src/main/AndroidManifest.xml:10:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/maxim/StudioProjects/FlappyBird/app/src/main/AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/maxim/StudioProjects/FlappyBird/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/maxim/StudioProjects/FlappyBird/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/maxim/StudioProjects/FlappyBird/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/maxim/StudioProjects/FlappyBird/app/src/main/AndroidManifest.xml:16:27-74

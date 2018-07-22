@@ -1,0 +1,140 @@
+
+{
+	"buildFiles" : [ "/home/maxim/StudioProjects/FlappyBird/app/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"/home/maxim/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/maxim/StudioProjects/FlappyBird/app/.externalNativeBuild/cmake/debug/x86_64 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"native-lib-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "native-lib",
+			"buildCommand" : "/home/maxim/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/maxim/StudioProjects/FlappyBird/app/.externalNativeBuild/cmake/debug/x86_64 --target native-lib",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android --gcc-toolchain=/home/maxim/Android/Sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/linux-x86_64 --sysroot=/home/maxim/Android/Sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/android/support/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /home/maxim/Android/Sdk/ndk-bundle/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/maxim/StudioProjects/FlappyBird/app/src/main/cpp/camera.cpp",
+					"workingDirectory" : "/home/maxim/StudioProjects/FlappyBird/app/.externalNativeBuild/cmake/debug/x86_64"
+				},
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android --gcc-toolchain=/home/maxim/Android/Sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/linux-x86_64 --sysroot=/home/maxim/Android/Sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/android/support/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /home/maxim/Android/Sdk/ndk-bundle/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/maxim/StudioProjects/FlappyBird/app/src/main/cpp/color.cpp",
+					"workingDirectory" : "/home/maxim/StudioProjects/FlappyBird/app/.externalNativeBuild/cmake/debug/x86_64"
+				},
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android --gcc-toolchain=/home/maxim/Android/Sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/linux-x86_64 --sysroot=/home/maxim/Android/Sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/android/support/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /home/maxim/Android/Sdk/ndk-bundle/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/maxim/StudioProjects/FlappyBird/app/src/main/cpp/component.cpp",
+					"workingDirectory" : "/home/maxim/StudioProjects/FlappyBird/app/.externalNativeBuild/cmake/debug/x86_64"
+				},
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android --gcc-toolchain=/home/maxim/Android/Sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/linux-x86_64 --sysroot=/home/maxim/Android/Sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/android/support/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /home/maxim/Android/Sdk/ndk-bundle/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/maxim/StudioProjects/FlappyBird/app/src/main/cpp/engine.cpp",
+					"workingDirectory" : "/home/maxim/StudioProjects/FlappyBird/app/.externalNativeBuild/cmake/debug/x86_64"
+				},
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android --gcc-toolchain=/home/maxim/Android/Sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/linux-x86_64 --sysroot=/home/maxim/Android/Sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/android/support/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /home/maxim/Android/Sdk/ndk-bundle/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/maxim/StudioProjects/FlappyBird/app/src/main/cpp/font.cpp",
+					"workingDirectory" : "/home/maxim/StudioProjects/FlappyBird/app/.externalNativeBuild/cmake/debug/x86_64"
+				},
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android --gcc-toolchain=/home/maxim/Android/Sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/linux-x86_64 --sysroot=/home/maxim/Android/Sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/android/support/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /home/maxim/Android/Sdk/ndk-bundle/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/maxim/StudioProjects/FlappyBird/app/src/main/cpp/game_loop.cpp",
+					"workingDirectory" : "/home/maxim/StudioProjects/FlappyBird/app/.externalNativeBuild/cmake/debug/x86_64"
+				},
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android --gcc-toolchain=/home/maxim/Android/Sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/linux-x86_64 --sysroot=/home/maxim/Android/Sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/android/support/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /home/maxim/Android/Sdk/ndk-bundle/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/maxim/StudioProjects/FlappyBird/app/src/main/cpp/game_object.cpp",
+					"workingDirectory" : "/home/maxim/StudioProjects/FlappyBird/app/.externalNativeBuild/cmake/debug/x86_64"
+				},
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android --gcc-toolchain=/home/maxim/Android/Sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/linux-x86_64 --sysroot=/home/maxim/Android/Sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/android/support/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /home/maxim/Android/Sdk/ndk-bundle/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/maxim/StudioProjects/FlappyBird/app/src/main/cpp/glcontext.cpp",
+					"workingDirectory" : "/home/maxim/StudioProjects/FlappyBird/app/.externalNativeBuild/cmake/debug/x86_64"
+				},
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android --gcc-toolchain=/home/maxim/Android/Sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/linux-x86_64 --sysroot=/home/maxim/Android/Sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/android/support/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /home/maxim/Android/Sdk/ndk-bundle/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/maxim/StudioProjects/FlappyBird/app/src/main/cpp/input.cpp",
+					"workingDirectory" : "/home/maxim/StudioProjects/FlappyBird/app/.externalNativeBuild/cmake/debug/x86_64"
+				},
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android --gcc-toolchain=/home/maxim/Android/Sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/linux-x86_64 --sysroot=/home/maxim/Android/Sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/android/support/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /home/maxim/Android/Sdk/ndk-bundle/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/maxim/StudioProjects/FlappyBird/app/src/main/cpp/lodepng.cpp",
+					"workingDirectory" : "/home/maxim/StudioProjects/FlappyBird/app/.externalNativeBuild/cmake/debug/x86_64"
+				},
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android --gcc-toolchain=/home/maxim/Android/Sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/linux-x86_64 --sysroot=/home/maxim/Android/Sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/android/support/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /home/maxim/Android/Sdk/ndk-bundle/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/maxim/StudioProjects/FlappyBird/app/src/main/cpp/material.cpp",
+					"workingDirectory" : "/home/maxim/StudioProjects/FlappyBird/app/.externalNativeBuild/cmake/debug/x86_64"
+				},
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android --gcc-toolchain=/home/maxim/Android/Sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/linux-x86_64 --sysroot=/home/maxim/Android/Sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/android/support/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /home/maxim/Android/Sdk/ndk-bundle/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/maxim/StudioProjects/FlappyBird/app/src/main/cpp/ninepath.cpp",
+					"workingDirectory" : "/home/maxim/StudioProjects/FlappyBird/app/.externalNativeBuild/cmake/debug/x86_64"
+				},
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android --gcc-toolchain=/home/maxim/Android/Sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/linux-x86_64 --sysroot=/home/maxim/Android/Sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/android/support/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /home/maxim/Android/Sdk/ndk-bundle/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/maxim/StudioProjects/FlappyBird/app/src/main/cpp/resources.cpp",
+					"workingDirectory" : "/home/maxim/StudioProjects/FlappyBird/app/.externalNativeBuild/cmake/debug/x86_64"
+				},
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android --gcc-toolchain=/home/maxim/Android/Sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/linux-x86_64 --sysroot=/home/maxim/Android/Sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/android/support/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /home/maxim/Android/Sdk/ndk-bundle/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/maxim/StudioProjects/FlappyBird/app/src/main/cpp/scene.cpp",
+					"workingDirectory" : "/home/maxim/StudioProjects/FlappyBird/app/.externalNativeBuild/cmake/debug/x86_64"
+				},
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android --gcc-toolchain=/home/maxim/Android/Sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/linux-x86_64 --sysroot=/home/maxim/Android/Sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/android/support/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /home/maxim/Android/Sdk/ndk-bundle/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/maxim/StudioProjects/FlappyBird/app/src/main/cpp/screen.cpp",
+					"workingDirectory" : "/home/maxim/StudioProjects/FlappyBird/app/.externalNativeBuild/cmake/debug/x86_64"
+				},
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android --gcc-toolchain=/home/maxim/Android/Sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/linux-x86_64 --sysroot=/home/maxim/Android/Sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/android/support/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /home/maxim/Android/Sdk/ndk-bundle/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/maxim/StudioProjects/FlappyBird/app/src/main/cpp/shader.cpp",
+					"workingDirectory" : "/home/maxim/StudioProjects/FlappyBird/app/.externalNativeBuild/cmake/debug/x86_64"
+				},
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android --gcc-toolchain=/home/maxim/Android/Sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/linux-x86_64 --sysroot=/home/maxim/Android/Sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/android/support/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /home/maxim/Android/Sdk/ndk-bundle/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/maxim/StudioProjects/FlappyBird/app/src/main/cpp/sprite.cpp",
+					"workingDirectory" : "/home/maxim/StudioProjects/FlappyBird/app/.externalNativeBuild/cmake/debug/x86_64"
+				},
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android --gcc-toolchain=/home/maxim/Android/Sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/linux-x86_64 --sysroot=/home/maxim/Android/Sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/android/support/include -isystem /home/maxim/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /home/maxim/Android/Sdk/ndk-bundle/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/maxim/StudioProjects/FlappyBird/app/src/main/cpp/texture.cpp",
+					"workingDirectory" : "/home/maxim/StudioProjects/FlappyBird/app/.externalNativeBuild/cmake/debug/x86_64"
+				}
+			],
+			"output" : "/home/maxim/StudioProjects/FlappyBird/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so",
+			"toolchain" : "3801341234462495006"
+		}
+	},
+	"toolchains" : 
+	{
+		"3801341234462495006" : 
+		{
+			"cCompilerExecutable" : "/home/maxim/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/home/maxim/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+		}
+	}
+}

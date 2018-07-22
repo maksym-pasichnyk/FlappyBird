@@ -1,0 +1,3 @@
+/home/maxim/StudioProjects/FlappyBird/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/home/maxim/StudioProjects/FlappyBird/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/maxim/StudioProjects/FlappyBird/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/native-lib.dir

@@ -1,0 +1,4 @@
+#Sat Jul 21 14:53:40 EEST 2018
+base.0=/home/maxim/StudioProjects/FlappyBird/app/build/intermediates/transforms/dexMerger/debug/34
+path.0=classes.dex
+renamed.0=classes.dex
